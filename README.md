@@ -1,5 +1,4 @@
 # Climate Change Analysis Project
-#### ECE 225A Final Project
 
 ## Project Overview
 This project explores the correlation between environmental changes and the rise in global temperatures from 1880 to 2020. Utilizing NASA Climate Change datasets, we analyze variables such as global CO2 and Methane levels, global temperature, ocean warming, ice sheets sea levels, and Arctic sea ice levels. Our aim is to uncover patterns and predict future trends in global warming and environmental changes through extensive data visualization techniques.
