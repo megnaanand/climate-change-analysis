@@ -1,4 +1,4 @@
-# README for Climate Change Analysis Project
+# Climate Change Analysis Project
 #### ECE 225A Final Project
 
 ## Project Overview
