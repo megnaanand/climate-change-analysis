@@ -13,10 +13,7 @@ To set up and run this project in Google Colab:
 2. **Install Required Libraries**:
    - Run `!pip install [libraries]` to install necessary Python packages.
 
-3. **Load the Datasets**:
-   - The datasets can be loaded directly from NASA's website or uploaded to Google Colab.
-
-4. **Run the Notebooks**:
+3. **Run the Notebooks**:
    - Open the provided Jupyter Notebooks and run each cell to reproduce the analysis.
 
 ## Data Preprocessing
@@ -26,7 +23,4 @@ Our preprocessing steps include cleaning, combining datasets, addressing missing
 We employ various data visualization models, such as heatmaps and line plots, to analyze correlations. The methodology includes transformation steps tailored to highlight specific patterns in climate change variables.
 
 ## Insights and Predictive Modeling
-The report details insights from the analysis, including unusual trends, and discusses the predictive modeling approach for forecasting temperature changes.
-
-## Conclusion and Future Implications
-Concluding with the implications of our findings on global warming, the report emphasizes the importance and relevance of this analysis in understanding and predicting environmental changes.
+The report details insights from the analysis, including unusual trends, and discusses the predictive modeling approach for forecasting temperature changes. You can find the report here (******MAKE SURE TO ADD LINK TO REPORT*******).  
