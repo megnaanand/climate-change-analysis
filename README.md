@@ -22,4 +22,4 @@ Our preprocessing steps include cleaning, combining datasets, addressing missing
 We employ various data visualization models, such as heatmaps and line plots, to analyze correlations. The methodology includes transformation steps tailored to highlight specific patterns in climate change variables.
 
 ## Insights and Predictive Modeling
-The report details insights from the analysis, including unusual trends, and discusses the predictive modeling approach for forecasting temperature changes. You can find the report here (******MAKE SURE TO ADD LINK TO REPORT*******).  
+The report details insights from the analysis, including unusual trends, and discusses the predictive modeling approach for forecasting temperature changes. You can find the report [here](https://github.com/megnaanand/climate-change-analysis/files/14826394/ECE_225A_Final_Project.2.pdf).
